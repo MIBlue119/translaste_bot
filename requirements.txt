@@ -1,0 +1,6 @@
+line-bot-sdk
+Flask==2.2.2
+requests
+googletrans
+PyPDF2
+fpdf
